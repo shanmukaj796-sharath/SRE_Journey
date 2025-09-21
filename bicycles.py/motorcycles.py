@@ -1,4 +1,3 @@
-motorcycles=['honda','yamaha','suzuki']
-print(motorcycles)
-motorcycles[0]='ducati'
-print(motorcycles)
+cars=['bmw','audi','tayota','subaru']
+print(len (cars))
+
